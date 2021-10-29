@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pigmentless
+- 👋 Hi, I’m Ray known as 'pigmentless'
 - 👀 I’m a product deginer with obsession in geometry and coding
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on art and design lets say crazy stuff
