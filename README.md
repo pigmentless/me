@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Ray known as 'pigmentless'
-- 👀 I’m a product deginer with obsession in geometry and coding
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on art and design lets say crazy stuff
-- twitter:  @pigmentless
+![alt text](https://avatars.githubusercontent.com/u/93402199?v=4)
+
+ 'Pigmentless' is my art signiture
+ 
+- 👋 I am Nick, 
+- ✏️a product deginer in my job, 
+- 🎨 experimental art unig geometry and coding is my hobby.
+ 
+- 👀 learning everything
+ 
+- <img src="https://img.icons8.com/officexs/16/000000/twitter.png"/>  @pigmentless
+- 📧 colorless.pigment@gmail.com
 
 <!---
 pigmentless/pigmentless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
