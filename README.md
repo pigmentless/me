@@ -4,7 +4,7 @@
  
 - 👋 I am Nick, 
 - ✏️a product deginer in my job, 
-- 🎨 experimental art unig geometry and coding is my hobby.
+- 🎨 experimental art using geometry and code is my hobby.
  
 - 👀 learning everything
  
