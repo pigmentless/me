@@ -1,8 +1,8 @@
 ![alt text](https://avatars.githubusercontent.com/u/93402199?v=4)
 
- 'Pigmentless' is my art signiture
+ Colors on in the light. Objects are just chemicals.
  
-- 👋 I am Nick, 
+- 👋 call me Pigmentless,
 - ✏️a product deginer in my job, 
 - 🎨 experimental art using geometry and code is my hobby.
  
