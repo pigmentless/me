@@ -1,12 +1,12 @@
 ![alt text](https://avatars.githubusercontent.com/u/93402199?v=4)
 
- Colors on in the light. Objects are just chemicals.
+ Colors are in the Light. Objects are just chemicals. Pigment dosn't exist
  
-- 👋 call me Pigmentless,
-- ✏️a product deginer in my job, 
-- 🎨 experimental art using geometry and code is my hobby.
+- 👋 It's Pigmentless,
+- ✏️ A product deginer in my day job, 
+- 🎨 Experimental art using geometry and code is my hobby.
  
-- 👀 learning everything
+- 👀 Learning everything everywhere
  
 - <img src="https://img.icons8.com/officexs/16/000000/twitter.png"/>  @pigmentless
 - 📧 colorless.pigment@gmail.com
